@@ -12,6 +12,7 @@
 		528A99C32B62B61200F93E66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528A99C22B62B61200F93E66 /* Assets.xcassets */; };
 		528A99C62B62B61200F93E66 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528A99C52B62B61200F93E66 /* Preview Assets.xcassets */; };
 		528A99CD2B62BE0D00F93E66 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528A99CC2B62BE0D00F93E66 /* ToDoList.swift */; };
+		528A99CF2B640B6700F93E66 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528A99CE2B640B6700F93E66 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		528A99C22B62B61200F93E66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		528A99C52B62B61200F93E66 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		528A99CC2B62BE0D00F93E66 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		528A99CE2B640B6700F93E66 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				528A99BE2B62B61000F93E66 /* To_Do_ListApp.swift */,
 				528A99C02B62B61000F93E66 /* ContentView.swift */,
+				528A99CE2B640B6700F93E66 /* AddItemView.swift */,
 				528A99CC2B62BE0D00F93E66 /* ToDoList.swift */,
 				528A99C22B62B61200F93E66 /* Assets.xcassets */,
 				528A99C42B62B61200F93E66 /* Preview Content */,
@@ -143,6 +146,7 @@
 				528A99C12B62B61000F93E66 /* ContentView.swift in Sources */,
 				528A99CD2B62BE0D00F93E66 /* ToDoList.swift in Sources */,
 				528A99BF2B62B61000F93E66 /* To_Do_ListApp.swift in Sources */,
+				528A99CF2B640B6700F93E66 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
